@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joakimrrtt&label=Profile%20views&color=0e75b6&style=flat" alt="joakimrrtt" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **joakim.rortveit@outlook.com**
 
